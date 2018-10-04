@@ -4,3 +4,5 @@ $.response.status = $.net.http.OK;
 // comment
 
 $.response.setBody(JSON.stringify(10));
+
+// test the pull functionality
