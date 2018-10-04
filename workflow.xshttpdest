@@ -1,0 +1,12 @@
+description = "Java Rest API call";
+host = "flpnwc-d7e367960.dispatcher.us2.hana.ondemand.com";
+port = 443;
+pathPrefix = "/sap/fiori/bpmworkflowmonitor/wfs/v1/";
+proxyType = none;
+proxyHost = "";
+proxyPort = 0;
+authType = basic;
+useSSL = true;
+timeout = 0;
+sslHostCheck = true;
+sslAuth = client;
