@@ -1,6 +1,7 @@
 $.response.setBody(JSON.stringify(20));
 $.response.contentType = 'application/json';
-$.response.status = $.net.http.OK;
+$.response.status = $.net.http.OK; 
+// comment 2
 // comment
 
 //$.response.setBody(JSON.stringify(10));
